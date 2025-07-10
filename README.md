@@ -1,6 +1,7 @@
 About Me
 
 👋 Introduction
+
 Hello! I’m @DavidMark254, a passionate Computer Science student at Egerton University.. My journey in tech began with a curiosity for how things work, and it has grown into a love for coding and problem-solving. I thrive on exploring new technologies and continuously improving my skills. Whether it’s diving into a new programming language or tackling a challenging project, I’m always eager to learn and grow.
 
 🌟 Interests
